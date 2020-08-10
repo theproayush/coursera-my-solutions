@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1>Here are my solutions of<h1> 
-	<h2>"HTML, CSS, and Javascript for Web Developers" course on Coursera</h2>
+	<h1>Restaurant website parts</h1>
 	<p>Click on the links to open it in your browser!</p>
 	<br>
 	<li><a href="https://theproayush.github.io/coursera-my-solutions/module-2-solution">Module 2</a></li>
